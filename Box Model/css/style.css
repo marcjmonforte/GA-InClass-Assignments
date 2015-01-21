@@ -1,0 +1,19 @@
+/*Global Styles*/
+
+html {
+	font-size: 30px;
+}
+
+a {
+	color: green;
+	text-decoration: none;
+}
+
+a:visited {
+	color: green;
+}
+
+a:hover {
+	text-decoration: underline;
+	color: red;
+}

@@ -1,0 +1,40 @@
+@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro);
+
+* {
+	font-family: "Source Sans Pro", sans-serif;
+}
+
+nav {
+	background-color: yellow;
+	width: 100%;
+	padding: 5px 10px;
+	text-align: center;
+}
+
+nav li {
+	list-style-type: none;
+	display: inline;
+}
+
+nav li:hover {
+	background-color: aqua;
+}
+
+nav li a:hover {
+	color: green;
+}
+
+.box {
+	color: yellow;
+	height: 100px;
+	width: 100px;
+	background-color: blue;
+	border: 2px solid black;
+	padding: 5px;
+	margin: 5px;
+	float: left;
+}
+
+#rightSide {
+	float: right;
+}

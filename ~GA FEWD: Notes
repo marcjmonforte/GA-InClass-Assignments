@@ -1,0 +1,60 @@
+GA FEWD: Notes
+
+---
+
+[WEEK 1]
+
+/ AJAX is dated, dont use it - we use JSON now (Javascript Object Notation).
+/// The X in AJAX is XML, we don't use that anymore.
+/ Jon Duckett - HTML & CSS, Javascript & jQuery (recommended book for reference)
+/ Typically .png is used over a .gif or a .jpeg
+/// .jpeg does not allow transparency
+/ CLASSES are used repeatedly throughout the course, but IDs are only used once.
+/ DOM is like a family tree, with parents and children
+/// Parent tag --> child tag; what's the child tag of the lowest level tag? The content.
+/ HOMEWORK is on Github: Week 1
+/ to insert line, use <hr> in your html, then set a width and thickness in CSS
+/ margin is the outside, padding is the inside; both referring to space
+
+[WEEK 2]
+/ PNG = portable network graphic
+/ GIF = set of images with a timer, displaying movement
+/ JPEG should be used for a huge background image; PNGs otherwise
+/ PNG and GIFs can be both transparent but use PNGs because they're easier
+/ 960px is a good max-width default number for laptops, maybe not desktops
+/ Import fonts to CSS
+/ Source Sans Pro = good font.
+/ Four types of position: STATIC is the default
+/// Absolute means it will ALWAYS be there no matter what, removes it in context of anything else
+/// Fixed will stay there as we scroll ??
+/// Relative will be relative to the thing ABOVE it.
+
+[BRAINSTORM: FINAL PROJECT]
+/ Personal resume showcasing personal projects (could be one page with links up top sourcing to different sections within the page instead of outsourcing to new pages)
+/// Main landing page with contact information
+/// About Me, Fun Facts, etc.
+/// Education & Experience, Skills
+/// Projects (maybe a link outsourcing to other individual smaller websites)
+
+/ Family webpage connecting family across the globe (would have to be able to utilize different languages, maybe include a language swap button at the top?)
+/// Main landing page with basic information about what the website is on top half, clickable sections for countries on the bottom half (think Smash Bros website)
+///// Within those landing pages, could do like states or cities, providences, etc.
+/////// Within those landing pages for subareas, could include information about who lives where and how to connect with them, etc. via email, social media etc.; also gallery of recent pictures with captions
+
+[WEEK 3]
+/ When looking for software dev companies, make sure not to join a company that is WATERFALL, not SCRUM/AGILE
+/ Directory structure = how folders are layed out on your computer/server
+/ SlickPlan, Mockingbird
+/ Extra Strength Responsive Grid, Twitter Bootstrap
+/ Mobile, Mobile Landscape; Tablet, Tablet Landscape; Bigger tablet... etc; Desktop
+
+[FINAL PROJECT  REQUIREMENTS]
+/ multipage layout or single page longform
+/ some jQuery
+/ must have CSS3 & HTML5
+/ must have wireframes
+/// balsamic, gomockingbird, pen/paper
+/ comments(lots!)
+/ external libraries
+/// jQueryui-.js, slick.js, 
+/ some kind of API

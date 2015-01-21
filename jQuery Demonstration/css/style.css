@@ -1,0 +1,28 @@
+#light {
+	text-align: center;
+	width: 110px;
+	margin: 0 auto;
+	border: 5px solid gray;
+	padding: 5px;
+	background-color: black;
+}
+
+.bulb {
+	height: 100px;
+	width: 100px;
+	border-radius: 50%;
+	background-color: gray;
+	border: 1px solid white;
+	margin: 2px;
+}
+
+hr {
+	border: 1.5px solid white;
+}
+
+button {
+	margin-top: 5px;
+	background-color: gray;
+	border-radius: 3px;
+	color: lightgray;
+}
